@@ -1,0 +1,188 @@
+.publikasi {
+  padding-left: 70px;
+}
+.publikasi-icon {
+  display: flex;
+  flex-direction: row;
+  column-gap: 13.5px;
+  padding-top: 44px;
+}
+.publikasi-img {
+  width: 24px;
+  height: 24px;
+}
+
+.publikasi-text {
+  width: 93px;
+  height: 28px;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 28px;
+  /* identical to box height, or 140% */
+
+  /* Copal 2 / Blue / 02 */
+  margin: 0px;
+  color: #023e8a;
+}
+
+.year {
+  width: 48px;
+  height: 28px;
+
+  /* Headings / Smallest / Medium */
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 28px;
+  /* identical to box height, or 140% */
+
+  color: #000000;
+}
+
+.paper {
+  display: flex;
+  flex-direction: row;
+  column-gap: 20px;
+  padding-bottom: 50px;
+}
+
+.paper-title {
+  width: 850px;
+  height: 96px;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 32px;
+  /* or 133% */
+
+  color: #000000;
+}
+
+.paper-writer {
+  width: 900px;
+  height: 56px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 28px;
+  /* or 140% */
+
+  color: #000000;
+}
+.button {
+  display: flex;
+  flex-direction: row;
+  column-gap: 10px;
+  padding-bottom: 30px;
+}
+.button-unduh {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 14px;
+  gap: 8px;
+
+  width: 177px;
+  height: 46px;
+
+  /* Copal 2 / Blue / 02 */
+
+  background: #023e8a;
+  border-radius: 6px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.button-unduh-text {
+  font-family: "Inter";
+  font-style: normal;
+  justify-content: center;
+  align-items: center;
+  font-weight: 500;
+  font-size: 18px;
+
+  /* identical to box height, or 18px */
+
+  /* Text / White */
+
+  color: #fdfdfd;
+}
+
+.button-copy {
+  width: 122px;
+  height: 46px;
+
+  /* Copal 2 / Blue / 02 */
+
+  border: 1px solid #023e8a;
+  border-radius: 6px;
+
+  /* Inside auto layout */
+}
+
+.button-copy-text {
+  justify-content: center;
+  align-items: center;
+  /* Button Large */
+  margin: 0;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  color: #023e8a;
+}
+
+.abstract {
+  box-sizing: border-box;
+  width: 809px;
+  height: fit-content;
+
+  /* Copal 2 / Blue / 02 */
+
+  border: 1px solid #023e8a;
+  border-radius: 6px;
+}
+
+.abstract-title {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 24px;
+  padding: 0 0 0 17px;
+
+  /* Copal 2 / Blue / 01 */
+
+  color: #03045e;
+}
+
+.abstract-desc {
+  width: 771px;
+  height: fit-content;
+
+  /* Inter/Paragraph/16 */
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 28px;
+  padding: 0 17px 17px 17px;
+  /* or 175% */
+
+  color: #000000;
+}
+
+.contributor {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 28px;
+  /* identical to box height, or 140% */
+
+  color: #000000;
+  padding-top: 5px;
+}

@@ -1,0 +1,52 @@
+.header {
+  max-width: 1500px;
+  min-height: 153px;
+  top: 0px;
+  background: #023d8a;
+  display: flex;
+  flex-direction: row;
+  font-family: "Montserrat";
+  font-style: normal;
+}
+.header-img {
+  max-width: 100px;
+  max-height: 100px;
+  padding-top: 29px;
+  padding-left: 23px;
+  padding-right: 12px;
+}
+
+.header-text1 {
+  max-width: 1206px;
+  min-height: 20px;
+  font-weight: 700;
+  font-size: 24px;
+  color: #fafafa;
+}
+
+.header-text2 {
+  max-width: 754px;
+  min-height: 10px;
+  font-weight: 600;
+  font-size: 20px;
+  color: #caf0f8;
+  margin: 0;
+}
+
+.header-text3 {
+  font-weight: 600;
+  font-size: 13px;
+  color: #caf0f8;
+  margin: 1% 0 2% 0;
+}
+@media only screen and (max-width: 600px) {
+  .header-img {
+    display: none;
+  }
+  .header-text {
+    margin: 20px;
+  }
+  .header-text1 {
+    padding-top: 50px;
+  }
+}

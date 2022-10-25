@@ -1,0 +1,43 @@
+.pro-sidebar.collapsed {
+  width: 70px;
+}
+.menu {
+  height: 100%;
+  background: #023e8a;
+  color: white;
+}
+
+.menuitem {
+  border-bottom: 0.5px solid #c5e7f7;
+  height: 70px;
+  left: 0px;
+}
+
+.menuitem:hover {
+  background: #022f68;
+}
+
+.menuitem.submenu {
+  border-bottom: 0.5px solid #c5e7f7;
+  height: 70px;
+  left: 0px;
+}
+
+.button {
+  color: #000;
+  position: absolute;
+  right: 0;
+  z-index: 9999;
+  line-height: 20px;
+  border-radius: 50%;
+  font-weight: bold;
+  cursor: pointer;
+  left: 275px;
+  top: 567px;
+  transition: 0.3s;
+}
+
+.button.collapsed {
+  left: 54px;
+  transition: 0.3s;
+}

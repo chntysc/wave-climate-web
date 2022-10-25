@@ -1,0 +1,101 @@
+[
+  {
+    "id": "1",
+    "wpp": "571",
+    "location": "Selat Malaka dan Laut Andaman",
+    "potensial": "308.736 ton",
+    "catch": "264.436 ton",
+    "exploit": "1,03 (Over-Exploited) ",
+    "fish": "Cumi-cumi, ikan demersal, ikan karang, ikan pelagis besar, ikan pelagis kecil, kepiting, lobster, rajungan, dan udang penaeid"
+  },
+  {
+    "id": "2",
+    "wpp": "572",
+    "location": "Samudra Hindia sebelah barat Sumatra dan Selat Sunda",
+    "potensial": "995.491 ton",
+    "catch": "715.971 ton",
+    "exploit": "0,94 (Fully-Exploited)  ",
+    "fish": "Cumi-cumi, ikan demersal, ikan karang, ikan pelagis besar, ikan pelagis kecil, kepiting, lobster, rajungan, dan udang penaeid"
+  },
+  {
+    "id": "3",
+    "wpp": "573",
+    "location": "Samudra Hindia sebelah selatan Jawa hingga selatan Nusa Tenggara, Laut Sawu, dan Laut Timor bagian barat",
+    "potensial": "1.038.463 ton",
+    "catch": "519.814 ton",
+    "exploit": "1,08 (Over-Exploited)",
+    "fish": "Cumi-cumi, ikan demersal, ikan karang, ikan pelagis besar, ikan pelagis kecil, kepiting, lobster, rajungan, dan udang penaeid"
+  },
+  {
+    "id": "4",
+    "wpp": "711",
+    "location": "Selat Karimata, Laut Natuna, dan Laut China Selatan",
+    "potensial": "777.521 ton",
+    "catch": "729.275 ton",
+    "exploit": "0,91 (Fully-Exploited) ",
+    "fish": "Cumi-cumi, ikan demersal, ikan karang, ikan pelagis besar, ikan pelagis kecil, kepiting, lobster, rajungan, dan udang penaeid"
+  },
+  {
+    "id": "5",
+    "wpp": "712",
+    "location": "Laut Jawa",
+    "potensial": "952.423 ton",
+    "catch": "685.451 ton",
+    "exploit": "0,82 (Fully-Exploited)",
+    "fish": "Cumi-cumi, ikan demersal, ikan karang, ikan pelagis besar, ikan pelagis kecil, kepiting, lobster, rajungan, dan udang penaeid"
+  },
+  {
+    "id": "6",
+    "wpp": "713",
+    "location": "Selat Makassar, Teluk Bone, Laut Flores, dan Laut Bali",
+    "potensial": "692.159 ton",
+    "catch": "428.141 ton",
+    "exploit": "0,99 (Fully-Exploited)  ",
+    "fish": "Cumi-cumi, ikan demersal, ikan karang, ikan pelagis besar, ikan pelagis kecil, kepiting, lobster, rajungan, dan udang penaeid"
+  },
+  {
+    "id": "7",
+    "wpp": "714",
+    "location": "Teluk Tolo dan Laut Banda",
+    "potensial": "730.157 ton",
+    "catch": "495.374 ton",
+    "exploit": "0,93 (Fully-Exploited)",
+    "fish": "Cumi-cumi, ikan demersal, ikan karang, ikan pelagis besar, ikan pelagis kecil, kepiting, lobster, rajungan, dan udang penaeid"
+  },
+  {
+    "id": "8",
+    "wpp": "715",
+    "location": "Teluk Tomini, Laut Maluku, Laut Halmahera, Laut Seram, dan Teluk Berau",
+    "potensial": "715.293 ton",
+    "catch": "479.396 ton",
+    "exploit": "0,84 (Fully-Exploited) ",
+    "fish": "Cumi-cumi, ikan demersal, ikan karang, ikan pelagis besar, ikan pelagis kecil, kepiting, lobster, rajungan, dan udang penaeid"
+  },
+  {
+    "id": "9",
+    "wpp": "716",
+    "location": "Laut Sulawesi, dan utara Pulau Halmahera",
+    "potensial": "410.981 ton",
+    "catch": "301.553 ton",
+    "exploit": "0,75 (Fully-Exploited)",
+    "fish": "Cumi-cumi, ikan demersal, ikan karang, ikan pelagis besar, ikan pelagis kecil, kepiting, lobster, rajungan, dan udang penaeid"
+  },
+  {
+    "id": "10",
+    "wpp": "717",
+    "location": "Teluk Cendrawasih dan Samudra Pasifik bagian barat",
+    "potensial": "240.788 ton",
+    "catch": "321.894 ton",
+    "exploit": "0,72 (Fully-Exploited)",
+    "fish": "Cumi-cumi, ikan demersal, ikan karang, ikan pelagis besar, ikan pelagis kecil, kepiting, lobster, rajungan, dan udang penaeid"
+  },
+  {
+    "id": "11",
+    "wpp": "718",
+    "location": "Laut Aru, Laut Arafura, dan Laut Timor bagian timur",
+    "potensial": "2.637.564 ton",
+    "catch": "2.103.420 ton",
+    "exploit": "0,88 (Fully-Exploited)",
+    "fish": "Cumi-cumi, ikan demersal, ikan karang, ikan pelagis besar, ikan pelagis kecil, kepiting, lobster, rajungan, dan udang penaeid"
+  }
+]

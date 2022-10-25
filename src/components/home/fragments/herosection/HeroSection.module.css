@@ -1,0 +1,117 @@
+.hero {
+  background: url(../../../../assets/background1_herosection.png) no-repeat;
+  height: auto;
+  left: 0px;
+  top: 0px;
+  background-size: cover;
+}
+
+/* .search {
+  display: flex;
+  flex-direction: column;
+  max-width: 395px;
+  float: right;
+  padding-right: 70px;
+  padding-top: 30px;
+}
+.search-top {
+  display: flex;
+  flex-direction: row;
+  width: 395px;
+  align-content: space-around;
+  column-gap: 285px;
+}
+.search-text {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+
+  color: #a8a8a8;
+}
+.search-icon {
+  width: 18px;
+  height: 18px;
+  margin: 0;
+  padding-top: 5px;
+}
+.search-line {
+  width: 395px;
+  height: 0px;
+  left: 975px;
+  top: 209px;
+  border: 1px solid #fafafa;
+  background-color: #fafafa;
+} */
+
+.title {
+  display: flex;
+  flex-direction: column;
+  padding-top: max(95px);
+  padding-left: 59px;
+}
+.title-button {
+  width: 156px;
+  height: 48px;
+  background-color: transparent;
+  border: 2px solid #fafafa; /* Green */
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height, or 150% */
+
+  /* Gray/0 */
+
+  color: #fafafa;
+}
+.title-paper {
+  max-width: 1225px;
+  min-height: 144px;
+  font-weight: 700;
+  font-size: clamp(20px, 40px, 50px);
+  line-height: clamp(20px, 48px, 58px);
+  /* or 120% */
+
+  letter-spacing: -0.02em;
+
+  color: #ffffff;
+}
+
+.title-writer {
+  max-width: 787px;
+  max-height: 28px;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  font-size: clamp(8px, 20px, 30px);
+  line-height: 28px;
+  color: #80d8ff;
+}
+
+.bottom {
+  display: flex;
+  place-content: center;
+  padding-top: clamp(20px, 40px, 50px);
+  padding-bottom: 50px;
+}
+.button {
+  width: 191px;
+  height: 46px;
+
+  /* Copal - Blue/7 */
+  border: 2px solid #fafafa;
+  background: #eef4ed;
+  border-radius: 6px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 100%;
+  /* identical to box height, or 18px */
+
+  /* Blue Gray/800 */
+
+  color: #37474f;
+}

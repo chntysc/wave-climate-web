@@ -1,0 +1,91 @@
+.article {
+  padding-left: 80px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.upper {
+  display: flex;
+  flex-direction: row;
+  column-gap: 50px;
+  padding-bottom: 20px;
+}
+
+.text {
+  width: 751px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+
+  color: #000000;
+}
+
+.image {
+  width: 498px;
+  height: 563px;
+
+  /* Copal - Blue/7 */
+
+  background: #eef4ed;
+  border-radius: 10px;
+}
+.image-position {
+  padding: 28px 28px 28px 28px;
+}
+.image-text {
+  width: 438px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+
+  color: #000000;
+}
+
+.text-bottom {
+  width: 1260px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+
+  color: #000000;
+}
+
+.ref {
+  width: 1260px;
+  height: fit-content;
+
+  /* Gray/100 */
+
+  /* Copal 2 / Blue / 02 */
+
+  border: 1px solid #023e8a;
+  border-radius: 10px;
+}
+.ref-text {
+  width: 1200px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+
+  color: #000000;
+  padding-left: 30px;
+}
+
+.imgopen {
+  align-content: center;
+}
+.imgopen-img {
+  align-items: center;
+  align-self: center;
+  align-content: center;
+}

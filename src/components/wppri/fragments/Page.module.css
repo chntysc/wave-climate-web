@@ -1,0 +1,109 @@
+.page {
+  display: flex;
+  flex-direction: column;
+}
+.title {
+  width: 138px;
+  height: 44px;
+  left: 120px;
+  top: 191px;
+
+  /* Headings/H2/Bold */
+
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 44px;
+  /* identical to box height, or 122% */
+
+  letter-spacing: -0.02em;
+
+  color: #000000;
+  padding-left: 50px;
+}
+
+.desc {
+  width: 1248px;
+  height: 72px;
+  left: 120px;
+  top: 260px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+
+  color: #000000;
+  padding-left: 50px;
+}
+.image {
+  padding-left: 50px;
+}
+
+.image-desc {
+  height: 28px;
+  left: 426px;
+  top: 1042px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 28px;
+  /* identical to box height, or 140% */
+
+  color: #000000;
+  text-align-last: center;
+  padding-bottom: 30px;
+}
+.bottom {
+  display: flex;
+  flex-direction: row;
+  column-gap: 116px;
+  padding-right: 60px;
+  padding-bottom: 110px;
+  padding-left: 50px;
+  padding-top: 100px;
+}
+.keterangan {
+  padding-top: 40px;
+}
+.petik-bawah {
+  padding-left: 400px;
+}
+.keterangan-text {
+  width: 501px;
+  height: 240px;
+  /* Headings / H3 / Medium */
+
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 40px;
+  /* or 125% */
+
+  letter-spacing: -0.02em;
+
+  color: #000000;
+}
+.nature {
+  height: 28px;
+  left: 1190px;
+  top: 526px;
+
+  /* Headings / Smallest / Medium */
+
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 28px;
+  /* identical to box height, or 140% */
+
+  color: #000000;
+
+  text-align-last: right;
+}

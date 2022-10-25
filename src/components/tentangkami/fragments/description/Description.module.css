@@ -1,0 +1,68 @@
+.description {
+  padding-left: 70px;
+  padding-top: 37px;
+}
+.title {
+  width: 256px;
+  height: 44px;
+
+  /* Headings/H2/Bold */
+
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 44px;
+  /* identical to box height, or 122% */
+  letter-spacing: -0.02em;
+
+  /* Copal 2 / Blue / 01 */
+
+  color: #03045e;
+}
+
+.desc {
+  width: 1217px;
+  height: 84px;
+
+  margin: 0;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 28px;
+  /* or 140% */
+
+  color: #000000;
+}
+.partner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.partner-text {
+  padding-top: 100px;
+  padding-bottom: 17px;
+  width: 140px;
+  height: 28px;
+  left: 661px;
+  top: 367px;
+
+  /* Headings / Smallest / Bold */
+
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 28px;
+  /* identical to box height, or 140% */
+
+  color: #000000;
+  text-align: center;
+}
+
+.partner-img {
+  width: 100px;
+  height: 100px;
+  padding-bottom: 100px;
+  padding-right: 10px;
+}

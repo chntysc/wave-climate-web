@@ -1,0 +1,173 @@
+.form-show {
+  display: none;
+}
+.formsection {
+  width: 450px;
+  height: auto;
+  background: #eef4ed;
+  border-radius: 10px;
+}
+.form {
+  display: flex;
+  flex-direction: column;
+  padding-left: 20px;
+}
+.title {
+  padding-top: 20px;
+  width: 409px;
+  height: 34px;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 28px;
+  color: #023047;
+  padding-left: 20px;
+}
+
+.label {
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 28px;
+  color: #01579b;
+}
+
+.input {
+  width: 409px;
+  height: 36px;
+  background: #ffffff;
+  border: 1px solid #c2c2c2;
+  box-shadow: inset 1px 2px 2px rgba(0, 0, 0, 0.06);
+  border-radius: 6px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #0a0a0a;
+}
+.input-text {
+  width: 409px;
+  height: 200px;
+  background: #ffffff;
+  border: 1px solid #c2c2c2;
+  box-shadow: inset 1px 2px 2px rgba(0, 0, 0, 0.06);
+  border-radius: 6px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #0a0a0a;
+}
+.input-text::placeholder {
+  padding: 10px 10px 10px 10px;
+}
+
+.select {
+  width: 409px;
+  height: 36px;
+  background: #ffffff;
+  border: 1px solid #c2c2c2;
+  box-shadow: inset 1px 2px 2px rgba(0, 0, 0, 0.06);
+  border-radius: 6px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #0a0a0a;
+}
+
+.submit {
+  width: 89px;
+  height: 42px;
+
+  background: #023e8a;
+  border-radius: 6px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 100%;
+  /* identical to box height, or 18px */
+
+  /* Text / White */
+
+  /* margin-top: 0.2em; */
+  margin-bottom: 0.5em;
+  color: #fdfdfd;
+  cursor: pointer;
+}
+.form-response-position {
+  margin-top: 85px;
+}
+.form-response {
+  display: none;
+}
+.form-response-ket {
+  width: 450px;
+  height: 345px;
+
+  /* Copal - Blue/7 */
+
+  background: #eef4ed;
+  border-radius: 10px;
+  display: flex;
+
+  align-items: center;
+
+  text-align: center;
+}
+.form-response-ket-position {
+  margin: 100px;
+}
+.form-response-ket-text {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 28px;
+
+  /* identical to box height, or 140% */
+
+  /* Copal 2 / Blue / 02 */
+
+  color: #023e8a;
+}
+.form-response-button-position {
+  padding-top: 10px;
+  float: right;
+}
+.form-response-button {
+  justify-content: center;
+  align-items: center;
+
+  width: 215px;
+  height: 46px;
+
+  /* Copal 2 / Blue / 02 */
+
+  background: #023e8a;
+  border-radius: 6px;
+  cursor: pointer;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+.form-response-button-text {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 100%;
+  align-items: center;
+  text-decoration: none;
+  /* identical to box height, or 18px */
+
+  /* Text / White */
+
+  color: #fdfdfd;
+  margin: 0;
+}
