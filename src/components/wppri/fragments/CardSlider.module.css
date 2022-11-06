@@ -48,14 +48,16 @@
 .loc {
   font-family: "Montserrat";
   font-style: normal;
-  font-weight: 400;
+  font-weight: 700;
   font-size: 20px;
-  line-height: 28px;
+  line-height: 35px;
   /* identical to box height, or 140% */
 
   /* Copal - Blue/1 */
 
-  color: #023047;
+  color: #01579b;
+  text-align: right;
+  padding-top: 20px;
 }
 .text-col {
   display: flex;
@@ -75,7 +77,7 @@
   border-collapse: collapse;
 }
 .td {
-  height: 40px;
+  height: 30px;
 }
 .img {
   width: 50px;

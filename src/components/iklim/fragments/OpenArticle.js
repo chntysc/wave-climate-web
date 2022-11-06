@@ -35,12 +35,11 @@ function OpenArticle(props) {
           </div>
         </div>
       </div> */}
-      <div>
+      <div className={styles["article-desc"]}>
         <div className={styles.imgopen}>
           <img className={styles["imgopen-img"]} src={props.img} />
-          <small>sumber : {props.imgsource}</small>
+          <small className={styles["small-text"]}>sumber : {props.imgsource}</small>
         </div>
-
         <p className={styles["text-bottom"]}>{props.desc}</p>
       </div>
       <div className={styles.ref}>

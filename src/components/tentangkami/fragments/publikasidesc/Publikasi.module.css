@@ -173,7 +173,7 @@
   line-height: 28px;
   padding: 0 17px 17px 17px;
   /* or 175% */
-
+  text-align: justify;
   color: #000000;
 }
 

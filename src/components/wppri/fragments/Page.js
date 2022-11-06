@@ -22,6 +22,9 @@ function Page() {
         </div>
         <div>
           <Slider />
+          <p className={styles["image-desc"]}>
+            sumber : <a href="https://statistik.kkp.go.id/home.php">https://statistik.kkp.go.id/home.php</a>
+          </p>
         </div>
         <div className={styles.bottom}>
           <img src={image_ikan} />

@@ -50,13 +50,14 @@
   font-family: "Inter";
   font-style: normal;
   font-weight: 400;
-  font-size: 20px;
+  font-size: 215x;
   line-height: 28px;
   /* identical to box height, or 140% */
 
   color: #000000;
-  text-align-last: center;
+  /* text-align-last: center; */
   padding-bottom: 30px;
+  padding-left: 20px;
 }
 .bottom {
   display: flex;
